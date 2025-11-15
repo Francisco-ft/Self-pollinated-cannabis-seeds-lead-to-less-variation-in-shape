@@ -1,4 +1,5 @@
 # Self-pollinated cannabis seeds lead to less variation in shape
+![figure1](https://github.com/user-attachments/assets/675d6016-3e68-493a-a0e5-f1bcc263158d)
 
 This repository contains the data analysis and machine learning models for classifying cannabis cultivars based on seed morphology.
 
